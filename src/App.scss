@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color:  #900020;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'MyFont';
+  font-size: 28px;
+
+}
+
+@font-face {
+  font-family: 'MyFont';
+  src: local('MyFont'), url(./fonts/dair/schwabacher.woff2) format('woff2');
+}
+
